@@ -94,7 +94,7 @@
             </div>
             <div class="form-group">
                 <label for="Email" class="input-label">Email: </label>
-                <input type="text" name="Email" id="Email" required>
+                <input type="email" name="Email" id="Email" required>
             </div>
             <input type="submit" value="회원가입" class="join_btn">
             <p class="login_btn">로그인 바로가기 <a href="login.php">Sign In</a></p>

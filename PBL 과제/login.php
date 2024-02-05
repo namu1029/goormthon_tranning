@@ -78,11 +78,11 @@
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
             <div class="form-group">
                 <label for="userid" class="input-label">ID: </label>
-                <input type="text" id="userid" name="userid" required>
+                <input type="text" placeholder="ID" id="userid" name="userid" required>
             </div>
             <div class="form-group">
                 <label for="userpw" class="input-label">Password: </label>
-                <input type="password" id="userpw" name="userpw" required>
+                <input type="password" placeholder="Password" id="userpw" name="userpw" required>
             </div>
             <input type="submit" value="Login">
             <div class="join-link">
