@@ -43,8 +43,8 @@
 <div class="container">
     <h1>Main Page</h1>
     <p>로그인이 필요합니다.</p>
-    <button onclick="location.href='login.html'">로그인</button >
-    <button onclick="location.href='join.html'">회원가입</button >
+    <button onclick="location.href='login.php'">로그인</button >
+    <button onclick="location.href='join.php'">회원가입</button >
 </div>
 </body>
 
