@@ -1,0 +1,3 @@
+https://github.com/namu1029/goormthon_tranning/tree/main/PBL%20%EA%B3%BC%EC%A0%9C
+
+외부 접근 가능 주소 확인을 위해 ngrok 구동 화면도 같이 업로드 하였습니다!
